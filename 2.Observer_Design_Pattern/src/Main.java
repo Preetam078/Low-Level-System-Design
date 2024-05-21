@@ -5,6 +5,7 @@ import StockObserver.Implement.SmsObserver;
 
 /*
 * There could be same Question: Weather Changes Display LLD
+* Intuition = BroadCast, Nofication on Change, etc
 * */
 
 public class Main {
